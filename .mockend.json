@@ -10,16 +10,28 @@
     }
   },
   "Product": {
-      "id": "3d1bf15-5078-e0e3-216c-e6e62cd5ef07",
-      "productName": "Lenovo ideapad",
-      "model": "HJJGHSRE",
-      "manufacturer": "Lenovo",
-      "productDescription": "Laptop",
-      "price": 29000,
-      "quantity": 7,
-      "author": "Lenovo-support",
-      "created": "Thu Oct 29 2020 18:03:07 GMT+0530 (India Standard Time)",
-      "updated": "Thu Oct 29 2020 18:03:07 GMT+0530 (India Standard Time)",
-      "hits": 13
+      "id": { "string": {} },
+      "productName": {
+      "string": [
+        "Lenovo Ideapad",
+        "Apple Macbook Air",
+         "Hp elite"
+      ]
+    },
+      "model": { "string": {} },
+      "manufacturer": {"string": [
+        "Lenovo",
+        "Apple",
+         "Hp",
+         "Dell
+      ]
+        },
+      "productDescription":{ "string": [
+        "Lenovo Ideapad",
+        "Apple Macbook Air",
+         "Hp elite"
+      ]},
+      "price": { "integer":{}},
+     
   }
 }
