@@ -31,7 +31,7 @@
         "Apple Macbook Air",
          "Hp elite"
       ]},
-      "price": { "integer":{}},
+      "price": { "integer":{}}
      
   }
 }
