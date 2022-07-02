@@ -1,6 +1,12 @@
 
 {
   "User": {
-    "title": { "string": {} }
+    "title": { "string": {} },
+    "statusMessage": {
+      "string": [
+        "working from home",
+        "watching Netflix"
+      ]
+    },
   }
 }
