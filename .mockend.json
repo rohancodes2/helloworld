@@ -10,9 +10,11 @@
     }
   },
   "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
+    "statusMessage": {
+      "string": [
+        "working from home",
+        "watching Netflix"
+      ]
     }
   }
 }
