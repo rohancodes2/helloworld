@@ -9,12 +9,17 @@
       ]
     }
   },
-  "Comment": {
-    "statusMessage": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
-    }
+  "Product": {
+      "id": "3d1bf15-5078-e0e3-216c-e6e62cd5ef07",
+      "productName": "Lenovo ideapad",
+      "model": "HJJGHSRE",
+      "manufacturer": "Lenovo",
+      "productDescription": "Laptop",
+      "price": 29000,
+      "quantity": 7,
+      "author": "Lenovo-support",
+      "created": "Thu Oct 29 2020 18:03:07 GMT+0530 (India Standard Time)",
+      "updated": "Thu Oct 29 2020 18:03:07 GMT+0530 (India Standard Time)",
+      "hits": 13
   }
 }
