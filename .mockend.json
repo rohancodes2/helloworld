@@ -13,9 +13,9 @@
       "id": { "string": {} },
       "productName": {
       "string": [
-        "Lenovo Ideapad",
-        "Apple Macbook Air",
-         "Hp elite"
+        "Laptop",
+        "SmartPhone",
+         "Tablet"
       ]
     },
       "model": { "string": {} },
@@ -27,11 +27,23 @@
       ]
         },
       "productDescription":{ "string": [
-        "Lenovo Ideapad",
-        "Apple Macbook Air",
-         "Hp elite"
+        "This product has all the features",
+        "Smart product with inbuilt IOT app",
+         "New AI features built-in"
       ]},
-      "price": { "string":{}}
+      "price": { "int":{}},
+      "author": { "string": ["Support"]},
+      "quantity": { "int":[10,15,30,20]},
+      "created": {"dateTime": {
+      "min": "2010-01-01T00:00:00Z",
+      "max": "2020-12-31T23:59:59Z"
+    }},
+    "updated":{"dateTime": {
+      "min": "2010-01-01T00:00:00Z",
+      "max": "2020-12-31T23:59:59Z"
+    }},
+    "hits":{"int":{}}
+ 
      
   }
 }
