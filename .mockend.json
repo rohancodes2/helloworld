@@ -31,7 +31,7 @@
         "Smart product with inbuilt IOT app",
          "New AI features built-in"
       ]},
-      "price": { { "int": { "min": 400, "max": 1000 }},
+      "price":  { "int": { "min": 400, "max": 1000 }},
       "author": { "string": ["Support"]},
       "quantity": { "int":[10,15,30,20]},
       "created": {"dateTime": {
@@ -42,7 +42,7 @@
       "min": "2010-01-01T00:00:00Z",
       "max": "2020-12-31T23:59:59Z"
     }},
-    "hits":{{ "int": { "min": 0, "max": 100000}}}
+    "hits":{ "int": { "min": 0, "max": 100000}}
  
      
   }
