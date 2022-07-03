@@ -13,17 +13,20 @@
       "id": { "string": {} },
       "productName": {
       "string": [
-        "Laptop",
-        "SmartPhone",
-         "Tablet"
+        "Apple Macbook Air",
+        "Apple iphone",
+         "Lenovo Ideapad",
+        "Lenovo Yoga",
+        "Hp Elitebook",
+        "Samsung C phone",
+        "Hp Zenbook",
       ]
     },
       "model": { "string": {} },
       "manufacturer": {"string": [
-        "Lenovo",
-        "Apple",
-         "Hp",
-         "Dell"
+        "Brand X",
+        "Brand Y",
+         "Bran Z",
       ]
         },
       "productDescription":{ "string": [
