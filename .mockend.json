@@ -19,14 +19,14 @@
         "Lenovo Yoga",
         "Hp Elitebook",
         "Samsung C phone",
-        "Hp Zenbook",
+        "Hp Zenbook"
       ]
     },
       "model": { "string": {} },
       "manufacturer": {"string": [
         "Brand X",
         "Brand Y",
-         "Bran Z",
+         "Bran Z"
       ]
         },
       "productDescription":{ "string": [
