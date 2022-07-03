@@ -1,13 +1,13 @@
 
 {
   "User": {
-    "title": { "string": {} },
-    "statusMessage": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
-    }
+    "fname": { "string": {} },
+     "lname": { "string": {} },
+    "username": { "string": {} },
+     "password": { "string": {} },
+     "password1": { "string": {} },
+     "location": { "string": {} },
+     "id": { "string": {} }
   },
   "Product": {
       "id": { "string": {} },
